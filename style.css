@@ -1,0 +1,18 @@
+#one{
+    background-color: red;
+}
+#two{
+    background-color: aquamarine;
+}
+#three{
+    background-color: blue;
+}
+.one{
+    background-color: magenta;
+}
+.two{
+    color: blue;
+}
+.three{
+    text-align: center;
+}
